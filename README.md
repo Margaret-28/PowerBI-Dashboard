@@ -1,3 +1,7 @@
+HR Analytics Dashboard
+
+This repository contains a Power BI project for an HR Analytics Dashboard designed to provide deep insights into various HR metrics. The dashboard helps organizations make data-driven decisions by offering visual representations of key HR data points.
+
 Employee Demographics: Visualizations showcasing employee distribution by age, gender, department, and tenure, providing a comprehensive overview of the workforce composition.
 
 Performance Metrics: Interactive charts highlighting key performance indicators (KPIs) such as employee productivity, goal achievement rates, and performance ratings.
